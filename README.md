@@ -36,7 +36,7 @@ Private MVP under active development.
 
 ## Product screenshot
 
-![Banoy product overview](product-overview.png)
+![Banoy product overview](image.png)
 
 This repository is a public showcase of the product.  
 Production source code, prompts, database logic, and internal implementation details remain private.
